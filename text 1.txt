@@ -457,7 +457,7 @@ task.spawn(function()
         returnTarget = nearbyObjects[1]
     end
 
-    showNotify("Searching for angel_alpha.001 started", true)
+    showNotify("Searching for Mythic Egg started", true)
     local startTime = tick()
 
     while true do
