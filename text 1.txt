@@ -18,7 +18,7 @@ local KeySystem = {
     KeyFilePath = "birdgame.txt",
     IsAuthorized = false,
     DiscordLink = "https://discord.gg/MseEgXxqcH",
-    WebhookURL = "https://discord.com/api/webhooks/1455877577494368269/gVeboK6rZuAcGLYJHHeteRl0YxY6vb1pp7j-bzW09fTHjF9oHVjL_X53K5BAkiBd_Kh6"
+    WebhookURL = "https://discord.com/api/webhooks/1462431884855476324/hbF9ND8LJueP2C25eoqBcEJ9CIZMtUWRM9_J3u2Fw6Y_1EFFUh8iQpY87ZcGWaevGvIf"
 }
 
 local function getActivationCount()
